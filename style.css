@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.beyond{
+    color: #ff6600;
+}
+.span{
+    color: chartreuse;
+}
+.the{
+    color: rgb(197, 58, 162);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%; 
+}
+.button{
+    color: rgb(243, 21, 169);
+    background-color:rgb(92, 114, 58); 
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 700;
+}
