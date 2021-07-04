@@ -1,5 +1,7 @@
 body{
     font-family: 'Roboto Slab', serif;
+    margin:0px;
+    background-color: gray;
 }
 .beyond{
     color: #ff6600;
@@ -18,7 +20,11 @@ section{
     padding-left: 5%;
 }
 .half-width img{
-    width: 80%; 
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    padding-top: 10%;
+    padding-bottom: 10%;
 }
 .button{
     color: rgb(243, 21, 169);
@@ -27,4 +33,27 @@ section{
     text-decoration: none;
     border-radius: 8px;
     font-weight: 700;
+}
+.half-heidth img{
+
+    width: 400px;
+    height: 400px;
+    border-radius:100%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.half-hidth{
+    width: 500px;
+    padding-left: 30%;
+    padding-top: 5%;
+}
+.bottom{
+    display: flex;
+}
+.download-bottond{
+    background-color: chartreuse;
+    border-radius: 10%;
+    padding: 7px 30px;
+    text-decoration: none;
 }
