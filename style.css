@@ -99,5 +99,7 @@ section{
    border-image-slice: 1;
     
 }
-
-
+footer{
+    text-align: center;
+    color: deeppink;
+}
