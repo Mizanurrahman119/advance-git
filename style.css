@@ -1,7 +1,6 @@
 body{
     font-family: 'Roboto Slab', serif;
-    margin:0px;
-    background-color: gray;
+    margin:0px
 }
 .beyond{
     color: #ff6600;
@@ -18,6 +17,7 @@ section{
 .half-width{
     width: 50%;
     padding-left: 5%;
+    text-align: justify;
 }
 .half-width img{
     width: 400px;
@@ -45,8 +45,9 @@ section{
 }
 .half-hidth{
     width: 500px;
-    padding-left: 30%;
+    padding-left: 20%;
     padding-top: 5%;
+    text-align: justify;
 }
 .bottom{
     display: flex;
@@ -57,3 +58,40 @@ section{
     padding: 7px 30px;
     text-decoration: none;
 }
+.present{
+    color: indianred;
+}
+.present1{
+    color: indianred;
+    font-size: 17px;
+}
+
+.blog3{
+    display: flex;
+}
+
+.div-left-sec3{
+    width: 40%;
+    padding-left: 60px;
+    padding-right: 80px;
+   box-shadow: 5px 10px 5px 10px orangered ;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 5%;
+
+    
+    
+   
+}
+.div-right-sec3{
+   width: 40%;
+   padding-left: 100px;
+   padding-right: 20px;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 5%;
+   box-shadow: 5px 10px 5px 10px orangered ;
+    
+}
+
+
